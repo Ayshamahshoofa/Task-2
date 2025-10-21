@@ -24,11 +24,3 @@ It analyzes sales performance across regions, categories, and time periods.
 | `dashboard_preview.png` | Screenshot preview of the dashboard |
 | `README.md` | Documentation and project overview |
 
-## 🚀 How to Open
-1. Download the `.pbix` file.  
-2. Open it in **Microsoft Power BI Desktop**.  
-
-## 🧑‍💻 Author
-*Your Name*  
-📧 *your.email@example.com*  
-🔗 [LinkedIn / GitHub Profile Link]
