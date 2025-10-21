@@ -1,4 +1,4 @@
-# 🧾 Superstore Sales Analysis Dashboard – Task 8 (Data Analyst Internship)
+# 🧾 Superstore Sales Analysis Dashboard 
 
 ## 📌 Objective
 
